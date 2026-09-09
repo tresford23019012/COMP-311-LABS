@@ -1,0 +1,3 @@
+Sum of all scores: 508
+Smallest score: 54
+Largest score: 92
